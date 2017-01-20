@@ -11,13 +11,12 @@
 		<license>GNU General Public License, v2</license>
 		<language></language>
 		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
+		<source>https://github.com/nuvious/kodirebootplugin</source>
 		<website>nuvsoft.com</website>
 		<email>david.cheeseman@nuvsoft.com</email>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
 		<news>Initial alpha release.</news>
 	</extension>
